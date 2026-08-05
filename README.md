@@ -23,7 +23,6 @@ Automation &amp; Robotics Engineering student passionate about embedded systems,
 
 | Project | Description |
 |---------|-------------|
-| 💊 **Smart Pharmaceutical Packaging Inspector (SPPI)** | AI-powered pharmaceutical packaging inspection.(under construction) |
 | 🔇 **SilentGuard** | Smart library monitoring and noise analysis. |
 | 🤖 **ToxicTrack Bot** | Hazardous gas detection and navigation robot. |
 | 🛡️ **VigilEye – Smart Porch Guardian** | IoT-based smart home security system. |
