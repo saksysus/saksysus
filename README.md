@@ -75,17 +75,24 @@ Automation &amp; Robotics Engineering student passionate about embedded systems,
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=saksysus&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saksysus&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
+    height="165"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=saksysus&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=saksysus&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8"
+    alt="Top Languages"
   />
 </p>
 
 ---
+
 <p align="center">
   <i>⭐️ From <a href="https://github.com/saksysus">saksysus</a></i>
 </p>
