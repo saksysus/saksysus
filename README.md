@@ -78,8 +78,14 @@ Automation &amp; Robotics Engineering student passionate about embedded systems,
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saksysus&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saksysus&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/saksysus">saksysus</a></i></p>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/saksysus">saksysus</a></i>
+</p>
